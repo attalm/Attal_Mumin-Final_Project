@@ -7,8 +7,8 @@ import java.util.Date;
  *
  * A simple class representing a task with a name, deadline, and completion status.
  *
- * Author: [Your Name]
- * Date: [Current Date]
+ * Author: Attal
+ * Date: 15/08/2024
  * Version: 1.0
  */
 class Task implements Serializable {
